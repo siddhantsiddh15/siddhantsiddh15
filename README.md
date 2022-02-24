@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋  
+
+🌱 I’m currently learning to code and have learnt the basics 💬 of android programming, JAVA, JavaScript. 
+
+⚡ Fun fact: I am still a beginner and have published my apps on play store and learning web development currently. 
+👯 I’m looking to collaborate on open source projects and would love to add value to this amazing techn community. 
+
+📫 How to reach me: My username is same for twitter account @siddhantsiddh15
 
 <!--
 **siddhantsiddh15/siddhantsiddh15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
