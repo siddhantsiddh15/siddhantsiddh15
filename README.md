@@ -11,6 +11,7 @@
 ### *Here are some of my repositories:* ###
 1. **[JavaScript](https://github.com/siddhantsiddh15/Small-JavaScript-Projects)**
 2. **[Android](https://github.com/siddhantsiddh15/Pomodoro-Timer)**
+3. **[CSS](https://github.com/siddhantsiddh15/CSS-Artworks.git)**
 
 ##### 👯 I’m looking to collaborate on open source projects and would love to add value to this amazing tech community. 
 
