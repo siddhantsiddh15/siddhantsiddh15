@@ -16,7 +16,7 @@
 3. **[CSS](https://github.com/siddhantsiddh15/CSS-Artworks.git)**
 4. **[Android](https://github.com/siddhantsiddh15/Pomodoro-Timer)**
 
-#### 📫Reach me at my - [x] **[Twitter](https://twitter.com/SiddhantSiddh15)**
+#### 📫Reach me at my - **[Twitter](https://twitter.com/SiddhantSiddh15)**
 ##### 👯 I’m looking to collaborate on open source projects and would love to add value to this amazing tech community. 
 
 
