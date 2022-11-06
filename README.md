@@ -8,7 +8,7 @@
 
 
 ### ⚡ I am still a ~~beginner~~ learner and have published my apps on play store and learning web development currently. 
-#### I am making websites. Please check my work if you have read this far
+#### I am making websites. Feel free to collaborate if you have reached this far. Thanks for your precious time.
 ### *Here are some of my repositories:* ###
 1. **[JavaScript](https://github.com/siddhantsiddh15/Small-JavaScript-Projects)**
 2. **[Websites](https://github.com/siddhantsiddh15/Website-Development.git)**
