@@ -4,8 +4,7 @@
 ![Nothing just an image I like](https://avatars.githubusercontent.com/u/94108842?s=400&u=9263e163d08a333e5ee9aac6b2561386d8841619&v=4)
 
 
-## 🌱 I’m currently learning to code and have learnt the basics 💬 of ** JAVA, JavaScript**. 
-
+## 🌱 I’m currently learning to code and I am familiar with HTML, CSS, JavaScript, Data Structures and Algorithms in JAVA, OOPS and ReactJS 💬 You can find my projects in the github repositories attached
 
 
 ### ⚡ I am still a ~~beginner~~ learner and have published my apps on play store and learning web development currently. 
