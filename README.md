@@ -17,7 +17,8 @@ Find my recent projects here :
 
 #### I am making websites. Feel free to collaborate if you have reached this far. Thanks for your precious time.
 
-### *Here are some of my repositories which involves my learnings of ReactJS, JavaScript, HTML and CSS:* ###
+### Find my repositories which involves my learnings of ReactJS, JavaScript, HTML and CSS: ###
+
  **[Small JavaScript Projects](https://github.com/siddhantsiddh15/Small-JavaScript-Projects)**<br>
  **[Websites using HTML, CSS and JavaScript](https://github.com/siddhantsiddh15/Website-Development.git)**<br>
  **[CSS Artworks I made to understand CSS properties easily](https://github.com/siddhantsiddh15/CSS-Artworks.git)**<br>
