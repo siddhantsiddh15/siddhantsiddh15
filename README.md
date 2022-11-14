@@ -17,12 +17,9 @@ Find my recent projects here :
 
 #### I am making websites. Feel free to collaborate if you have reached this far. Thanks for your precious time.
 ### *Here are some of my repositories:* ###
-1. **[JavaScript](https://github.com/siddhantsiddh15/Small-JavaScript-Projects)**
-2. **[Websites](https://github.com/siddhantsiddh15/Website-Development.git)**
-3. **[CSS](https://github.com/siddhantsiddh15/CSS-Artworks.git)**
-4. **[React](https://github.com/siddhantsiddh15/superM-app-React)**
+ **[Small JavaScript Projects](https://github.com/siddhantsiddh15/Small-JavaScript-Projects)**           **[Websites using HTML, CSS and JavaScript](https://github.com/siddhantsiddh15/Website-Development.git)**         **[CSS Artworks I made to understand CSS properties easily](https://github.com/siddhantsiddh15/CSS-Artworks.git)**       **[ReactJS based Super Market app](https://github.com/siddhantsiddh15/superM-app-React)**
 
-
+###Want to see all my repositories? Click [here](https://github.com/siddhantsiddh15?tab=repositories)###
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=siddhantsiddh15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
