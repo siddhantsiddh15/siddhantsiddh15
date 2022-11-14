@@ -8,6 +8,13 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
+Find my recent projects here :
+
+1. **[E-commerce Website using ReactJS](https://siddhantsiddh15superm.netlify.app/)**
+2. **[Shoe store Website using HTML, CSS and JavaScript](siddhantsiddh15shoe-store.netlify.app)**
+3. **[To-Do App using ReactJS](https://siddhantsiddh15-to-do-app-react.netlify.app/)
+
+
 #### I am making websites. Feel free to collaborate if you have reached this far. Thanks for your precious time.
 ### *Here are some of my repositories:* ###
 1. **[JavaScript](https://github.com/siddhantsiddh15/Small-JavaScript-Projects)**
@@ -15,10 +22,6 @@
 3. **[CSS](https://github.com/siddhantsiddh15/CSS-Artworks.git)**
 4. **[React](https://github.com/siddhantsiddh15/superM-app-React)**
 
-Find my recent projects here :
-
-1. **[E-commerce Website using ReactJS](https://siddhantsiddh15superm.netlify.app/)**
-2. **[Shoe store Website using HTML, CSS and JavaScript](siddhantsiddh15shoe-store.netlify.app)**
 
 
 # 📊 GitHub Stats:
