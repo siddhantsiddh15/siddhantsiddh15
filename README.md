@@ -12,7 +12,7 @@ Find my recent projects here :
 
 1. **[E-commerce Website using ReactJS](https://siddhantsiddh15superm.netlify.app/)**
 2. **[Shoe store Website using HTML, CSS and JavaScript](siddhantsiddh15shoe-store.netlify.app)**
-3. **[To-Do App using ReactJS](https://siddhantsiddh15-to-do-app-react.netlify.app/)
+3. **[To-Do App using ReactJS](https://siddhantsiddh15-to-do-app-react.netlify.app/)**
 
 
 #### I am making websites. Feel free to collaborate if you have reached this far. Thanks for your precious time.
