@@ -17,7 +17,8 @@
 
 Find my recent projects here :
 
-1. **[Nike Website](https://brilliant-snickerdoodle-29e497.netlify.app)**
+1. **[E-commerce Website using ReactJS](https://siddhantsiddh15superm.netlify.app/)**
+2. **[Shoe store Website using HTML, CSS and JavaScript](siddhantsiddh15shoe-store.netlify.app)**
 
 
 # 📊 GitHub Stats:
