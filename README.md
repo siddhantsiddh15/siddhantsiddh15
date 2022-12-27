@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend projects<br>👯 I’m looking to collaborate on JavaScript and ReactJS projects<br>🤝 I’m looking for help with job opportunities<br>🌱 I’m currently learning TypeScript and it's integration in ReactJS<br><br>⚡ Fun fact - I have got certificate of excellence in my DSA bootcamp in the batch of 78 students
+🔭 I’m currently working on backend projects based on Node and Express<br>👯 I’m looking to collaborate on JavaScript and ReactJS projects<br>🤝 I’m looking for help with job opportunities<br>🌱 I’m currently learning TypeScript and it's integration in ReactJS<br><br>⚡ Fun fact - I have got certificate of excellence in my DSA bootcamp in the batch of 78 students
 
 
 ## 🌐 Socials:
