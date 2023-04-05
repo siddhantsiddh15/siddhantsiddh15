@@ -16,7 +16,7 @@ Find my recent projects here :
 3. **[Markdown Editor like GitHub and Hashnode using JavaScript, HTML and CSS](https://siddhantsiddh15-markdown-editor.netlify.app/)**
 4. **[To-Do App using ReactJS](https://siddhantsiddh15-to-do-app-react.netlify.app/)**
 5. **[Backend for a task manager app made using Node.JS, Express.JS and MongoDB](https://github.com/siddhantsiddh15/Task-Manager-Backend)**
-
+6. **[Image Gallery using Unsplash Image API](https://github.com/reactplay/react-play/pull/974)**
 
 #### I am making websites. Feel free to collaborate if you have reached this far. Thanks for your precious time.
 
