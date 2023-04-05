@@ -11,9 +11,11 @@
 
 Find my recent projects here :
 
-1. **[E-commerce Website using ReactJS](https://siddhantsiddh15superm.netlify.app/)**
+1. **[E-commerce Website using ReactJS, Redux library with Stripe payment integration](https://siddhantsiddh15superm.netlify.app/)**
 2. **[Shoe store Website using HTML, CSS and JavaScript](https://siddhantsiddh15shoe-store.netlify.app/)**
-3. **[To-Do App using ReactJS](https://siddhantsiddh15-to-do-app-react.netlify.app/)**
+3. **[Markdown Editor like GitHub and Hashnode using JavaScript, HTML and CSS](https://siddhantsiddh15-markdown-editor.netlify.app/)**
+4. **[To-Do App using ReactJS](https://siddhantsiddh15-to-do-app-react.netlify.app/)**
+5. **[Backend for a task manager app made using Node.JS, Express.JS and MongoDB](https://github.com/siddhantsiddh15/Task-Manager-Backend)**
 
 
 #### I am making websites. Feel free to collaborate if you have reached this far. Thanks for your precious time.
